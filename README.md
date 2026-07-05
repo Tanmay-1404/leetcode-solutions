@@ -5,10 +5,11 @@ This repository serves as my personal DSA journal, where I document my problem s
 ---
 
 ## About
--**Language:** Python
--**Current problems solved:** 107
--**Focus areas:** Data Structures and Algorithms
--**Platform:** https://leetcode.com/
+
+- **Language:** Python
+- **Current problems solved:** 107
+- **Focus areas:** Data Structures and Algorithms
+- **Platform:** https://leetcode.com/
 
 > Although I've already solved over 100 LeetCode problems, this repository is being created later to document future ones in a structured manner.
 
