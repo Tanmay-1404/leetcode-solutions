@@ -6,7 +6,7 @@ This repository serves as my personal DSA journal, where I document my problem s
 
 ## About
 
-- **Language:** Python
+- **Language:** C++
 - **Current problems solved:** 107
 - **Focus areas:** Data Structures and Algorithms
 - **Platform:** https://leetcode.com/
