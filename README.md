@@ -9,9 +9,10 @@ This repository serves as my personal DSA journal, where I document my problem s
 - **Language:** C++
 - **Current problems solved:** 107
 - **Focus areas:** Data Structures and Algorithms
-- **Platform:** https://leetcode.com/
+- **LeetCode profile:** https://leetcode.com/u/Tanmay1404/
 
 > Although I've already solved over 100 LeetCode problems, this repository is being created later to document future ones in a structured manner.
+> This repository will be constantly updated as I progress forward.
 
 ---
 
