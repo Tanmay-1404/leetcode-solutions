@@ -29,15 +29,14 @@ This repository serves as my personal DSA journal, where I document my problem s
 
 ## Topics covered
 
-- Arrays
-- Strings
-- Two pointers
-- Sliding window
-- Stack
-- Queue
-- Linked lists
-- Trees
-- Graphs
+- Arrays: 50
+- Strings: 21
+- Two pointers: 17
+- Stack: 14
+- Queue: 2
+- Linked lists: 14
+- Trees: 13
+- Graphs: 5
 
 *(The repository was built when I was on Graphs)*
 
