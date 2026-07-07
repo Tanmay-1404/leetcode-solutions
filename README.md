@@ -8,7 +8,7 @@ This repository serves as my personal DSA journal, where I document my problem s
 
 - **Currently following:** Striver's A2Z DSA sheet
 - **Language:** C++
-- **Current problems solved:** 107
+- **Current problems solved:** 109
 - **Focus areas:** Data Structures and Algorithms
 - **LeetCode profile:** https://leetcode.com/u/Tanmay1404/
 
@@ -22,7 +22,7 @@ This repository serves as my personal DSA journal, where I document my problem s
 | Difficulty | Solved |
 |------------|--------:|
 | Easy | 59 |
-| Medium | 46 |
+| Medium | 48 |
 | Hard | 2 |
 | **Total** | **107** |
 
@@ -37,7 +37,7 @@ This repository serves as my personal DSA journal, where I document my problem s
 - Queue: 2
 - Linked lists: 14
 - Trees: 13
-- Graphs: 5
+- Graphs: 7
 
 *(The repository was built when I was on Graphs)*
 
