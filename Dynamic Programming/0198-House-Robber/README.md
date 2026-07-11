@@ -1,6 +1,8 @@
 # 198. house Robber
 Difficulty: Medium
+
 Topics: Dynamic Programming
+
 https://leetcode.com/problems/house-robber/
 
 ## Approach -
